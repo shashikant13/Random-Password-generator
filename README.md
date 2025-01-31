@@ -14,7 +14,7 @@ This is a simple, yet powerful web-based Random Password Generator. It allows us
 - Option to copy the generated password to clipboard for easy use.
 
 ## Demo
-Live link :  
+Live link :https://shashikant13.github.io/Random-Password-generator/
 
 ![image](https://github.com/user-attachments/assets/d908d249-b2be-4da4-a4b2-318dd1602f67)
 
